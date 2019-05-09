@@ -6,3 +6,5 @@ def A(x):
 def B(x):
    todo - AP
    print("B")
+def C(x):
+   print("C")
